@@ -1,0 +1,11 @@
+.text-input{
+    border:1px solid #545454 ;
+    border-radius: 6px;
+    background-color: transparent;
+    resize:none;
+}
+
+.pressable{
+    padding:0px !important;
+    
+}
