@@ -2,7 +2,7 @@ import { Navbar, Container, Nav } from 'react-bootstrap';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Home';
 import About from './About';
-import Services from './Services';
+import Services from './services';
 import ContactUs from './ContactUs';
 
 import '../App.css'

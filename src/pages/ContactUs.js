@@ -23,9 +23,9 @@ const ContactUs = () => {
                         <Pressable title='SUBMIT MESSAGE' onPress={()=>alert("Sending message...")}/>
                     </Form>
                 </Col>
-                <Col className=' d-flex flex-column align-items-center justify-content-center bg-info'>
-                    <Image src={contact} alt='' className='w-75 h-75 border-bottom border-secondary' />
-                    <div className='d-flex flex-row f-12 justify-content-between w-75'>
+                <Col className=' d-flex flex-column align-items-center justify-content-center'>
+                    <Image src={contact} alt='' className='w-75 h-75 border-bottom border-secondary shadow' />
+                    <div className='d-flex flex-row f-12 justify-content-between w-75 shadow'>
                         <div>
                             <p className='text-bold'>OUR ADDRESS</p>
                             <p>Address ......</p>
