@@ -1,0 +1,13 @@
+a{
+    font-size: 1.3em;
+    font-weight: bolder;
+    font-family: 'Nunito', sans-serif!important;
+}
+
+.gap {
+    margin: auto 2em;
+}
+
+.navBarContainer{
+    margin-top: 5%;
+}

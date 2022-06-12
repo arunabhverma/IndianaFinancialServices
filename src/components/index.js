@@ -1,5 +1,2 @@
-import TextInput from './TextInput';
-let components = {
-    TextInput
-};
-export default components
+export {default as TextInput} from './TextInput';
+export {default as NavBar} from './navBar';
